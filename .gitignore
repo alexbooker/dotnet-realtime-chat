@@ -1,0 +1,6 @@
+.vs
+bundle.js
+packages
+bin
+obj
+node_modules
